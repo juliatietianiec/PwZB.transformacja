@@ -1,0 +1,13 @@
+        body {
+            height: 100%;
+        }
+
+        a {
+            position: absolute;
+            color: #eeeeee;
+            text-decoration: none;
+        }
+        h2,p{position: relative; text-align: center;}
+        p#cena{color: red; font-weight: bold;}
+        img#przedmiot{width: 15%; height: auto;}
+        img#button{margin-left: auto; margin-right: auto; display: block; width: 20%;}
